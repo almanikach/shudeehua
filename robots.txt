@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vuawohkahb.rawktron.com/sitemap.xml
